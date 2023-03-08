@@ -1,0 +1,1 @@
+A manifestion of the Void created so that it could interact with people. It takes the form of a human.

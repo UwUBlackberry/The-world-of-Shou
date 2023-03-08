@@ -1,0 +1,1 @@
+Time. They have more control over passing time.

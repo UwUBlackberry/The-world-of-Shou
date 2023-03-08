@@ -1,0 +1,3 @@
+Trickery
+
+Appointed by [[Loki]]
