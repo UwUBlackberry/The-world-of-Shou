@@ -15,7 +15,7 @@ Gosu/6 (Control of Domain Arts/Weapon Cultivation/Longsword Stances (Near Guard,
 Level 4 ASI: +2 Dex
 Level 6 ASI: Stance Master (Plow Stance (+1 AC, +1 To hit)) 
 (Level 8 ASI: Shield Master) 
-(Level 12 ASI: Skill Expert (+1 Cha, Intimidation expertise, Stealth)) 
+(Level 12 ASI: Skill Expert (Domain Holder) 
 (Level 14 ASI: Alert) 
 (Level 16 ASI: Fighting Initiate (Mariner)) 
 (Level 19 ASI: Mobile) 
