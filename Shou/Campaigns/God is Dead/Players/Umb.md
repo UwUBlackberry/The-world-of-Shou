@@ -1,1 +1,1 @@
-[[Lady Kenshou]]
+[[Kensei Ganbatte Kenshou]]

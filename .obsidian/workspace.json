@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md",
+                "file": "Shou/Campaigns/God is Dead/Players/Hugo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md",
+                "file": "Shou/Campaigns/God is Dead/Players/Hugo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md",
+                "file": "Shou/Campaigns/God is Dead/Players/Hugo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md"
+                "file": "Shou/Campaigns/God is Dead/Players/Hugo.md"
               }
             }
           }
@@ -147,5 +147,10 @@
     }
   },
   "active": "b61aba781ce3cd74",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Shou/Campaigns/God is Dead/Players/GID Players.md",
+    "Shou/Campaigns/God is Dead/Players/Player Characters/Okuyasu Steel.md",
+    "Shou/Campaigns/God is Dead/Players/Player Characters/Lua Silvey.md",
+    "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md"
+  ]
 }
