@@ -1,5 +1,3 @@
+Dragonlord Placidusax is the first dragon ever made and progenitor of all dragons, as well as the God of Dragons. Placidusax's scales are a dull platinum, looking more grey than metallic, and the webbing of their two pairs of wings is an illustrious gold. They often assume a human form in which case they become a beutiful woman with silvery hair, large dull grey horns, and two pairs of wings coming from their back. They hold dominion over all natural elements (though their favorites are lightning and fire) and distributed these elements between their draconic children such that each pair of Metallic and Chromatic Lineages gets one of the elements. They were made by [[Archangel Michael]] and serve as one of his servants and a general of his army.
 
 
-
-Related to [[Michael]] in some way
-Sisters with [[Lichdragon Fortisax]], I think.

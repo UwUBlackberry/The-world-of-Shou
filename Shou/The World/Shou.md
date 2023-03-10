@@ -11,7 +11,7 @@
 [[Gods]]
  
  [[Top 3 Gods]]
-  [[Michael]]
+  [[Archangel Michael]]
   [[Lichdragon Fortisax]]
   [[Dragonlord Placidusax]]
  

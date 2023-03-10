@@ -1,6 +1,6 @@
 Deals, Gold, and Luck
 
-Appointed by [[Michael]] and [[Pedal Komiko]]
+Appointed by [[Archangel Michael]] and [[Pedal Komiko]]
 
 
 
