@@ -5,18 +5,61 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Shou/The Realms\"",
+      "color": {
+        "a": 1,
+        "rgb": 10879231
+      }
+    },
+    {
+      "query": "path:\"Shou/Gods\"",
+      "color": {
+        "a": 1,
+        "rgb": 16732754
+      }
+    },
+    {
+      "query": "path:\"Shou/The World\"",
+      "color": {
+        "a": 1,
+        "rgb": 3735501
+      }
+    },
+    {
+      "query": "path:\"Shou/Side Stories\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Shou/Campaigns/God is Dead\"",
+      "color": {
+        "a": 1,
+        "rgb": 6684672
+      }
+    },
+    {
+      "query": "path:\"Shou/Campaigns/God is Alive\"",
+      "color": {
+        "a": 1,
+        "rgb": 16734464
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000007,
-  "close": true
+  "centerStrength": 0.895833333333333,
+  "repelStrength": 15.1041666666667,
+  "linkStrength": 0.619791666666667,
+  "linkDistance": 179,
+  "scale": 0.7132754626224442,
+  "close": false
 }

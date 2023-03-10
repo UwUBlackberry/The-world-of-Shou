@@ -11,12 +11,8 @@
             "id": "b61aba781ce3cd74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,13 +140,13 @@
   },
   "active": "b61aba781ce3cd74",
   "lastOpenFiles": [
+    "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md",
     "Shou/Campaigns/God is Dead/Players/Umb.md",
     "Pasted image 20230310001053.png",
     "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Dragonlord Placidusax.md",
     "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Top 3 Gods.md",
     "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Michael.md",
     "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Lichdragon Fortisax.md",
-    "Shou/Campaigns/God is Dead/Players/Player Characters/Kensei Ganbatte Kenshou.md",
     "Shou/Campaigns/God is Dead/Players/Player Characters/Lua Silvey.md",
     "Shou/The Realms/Void/The Diviners of the Deep.md",
     "Pasted image 20230309235957.png",
