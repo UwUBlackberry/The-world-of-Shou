@@ -11,12 +11,8 @@
             "id": "b61aba781ce3cd74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Archangel Michael.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Archangel Michael.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Archangel Michael.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Archangel Michael.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +140,18 @@
   },
   "active": "b61aba781ce3cd74",
   "lastOpenFiles": [
+    "Shou/The Realms/Void/The Diviners of the Deep.md",
+    "Pasted image 20230310001053.png",
+    "Pasted image 20230309235957.png",
+    "Pasted image 20230309235918.png",
+    "Pasted image 20230309235806.png",
+    "Pasted image 20230309235714.png",
+    "Pasted image 20230309235557.png",
+    "Pasted image 20230309235127.png",
+    "Pasted image 20230309235022.png",
+    "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Archangel Michael.md",
     "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Lichdragon Fortisax.md",
     "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Dragonlord Placidusax.md",
-    "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Archangel Michael.md",
     "Shou/Gods/Gods.md",
     "Shou/Gods/Top 3 most worshipped (GODS, technically not though)/Top 3 Gods.md",
     "Shou/Gods/Cult Gods (gahjdss)/Joseph Seed.md",
@@ -165,22 +166,12 @@
     "Shou/The Realms/The Realms.md",
     "Shou/The Realms/Void/The Voidling.md",
     "Shou/The Realms/Void/The Void.md",
-    "Shou/The Realms/Void/The Diviners of the Deep.md",
     "Shou/The Realms/Limbo/Limbo.md",
     "Shou/Side Stories/Side Campaigns/Side campaigns.md",
     "Shou/Side Stories/Side Campaigns/War of the Gods/War of Gods.md",
     "Shou/Side Stories/Side Campaigns/Cordova Legends/Cordova Legends.md",
     "Shou/Gods/Teacher Gods (Gahds)/Rastime the Limboturge.md",
     "Shou/Gods/Teacher Gods (Gahds)/Amelia, The Assumer.md",
-    "Shou/Gods/Non Mythical Pantheon (Gods)/Wasser.md",
-    "Shou/Gods/Non Mythical Pantheon (Gods)/The Withering God.md",
-    "Pasted image 20230310001053.png",
-    "Pasted image 20230309235957.png",
-    "Pasted image 20230309235918.png",
-    "Pasted image 20230309235806.png",
-    "Pasted image 20230309235714.png",
-    "Pasted image 20230309235557.png",
-    "Pasted image 20230309235022.png",
-    "Pasted image 20230309235127.png"
+    "Shou/Gods/Non Mythical Pantheon (Gods)/Wasser.md"
   ]
 }
