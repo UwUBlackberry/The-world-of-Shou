@@ -31,6 +31,7 @@
  
  [[Teacher Gods]]
   [[Rastime the Limboturge]]
+  [[Amelia, The Assumer]]
  
  [[Cult Gods]]
   [[Joseph Seed]]
